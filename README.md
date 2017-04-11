@@ -8,6 +8,7 @@ A list of companies using [Ember](https://emberjs.com/) in the UK! 🐹 🇬🇧
 - [British Gas](http://www.britishgas.co.uk/)
 - [Kayako](https://www.kayako.com/)
 - [Sunlight](https://www.sunlight.is/)
+- [Zapnito](https://zapnito.com)
 
 ---
 
