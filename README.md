@@ -10,6 +10,7 @@ A list of companies using [Ember](https://emberjs.com/) in the UK! 🐹 🇬🇧
 - [Chattermill](https://chattermill.io) | London | Remote
 - [Fitzdares](https://fitzdares.com/) | London
 - [Kayako](https://www.kayako.com/)
+- [Movidiam](https://www.movidiam.com/) | London
 - [Sunlight](https://www.sunlight.is/)
 - [Show My Homework](https://www.showmyhomework.co.uk/) | London
 - [Trouva](https://www.trouva.com/)
