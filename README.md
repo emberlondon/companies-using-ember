@@ -2,7 +2,7 @@
 
 A list of companies using [Ember](https://emberjs.com/) in the UK! 🐹 🇬🇧
 
-## A - K
+## A - Z
 
 - [AlphaSights](https://engineering.alphasights.com) | London | NY | Remote
 - [British Gas](http://www.britishgas.co.uk/)
