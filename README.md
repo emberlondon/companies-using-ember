@@ -1,4 +1,4 @@
-# Ember Companies (UK)
+# Companies using Ember
 
 A list of companies using [Ember](https://emberjs.com/) in the UK! 🐹 🇬🇧
 
