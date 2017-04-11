@@ -7,7 +7,7 @@ A list of companies using [Ember](https://emberjs.com/) in the UK! 🐹 🇬🇧
 - [AlphaSights](https://engineering.alphasights.com) | London | NY | Remote
 - [British Gas](http://www.britishgas.co.uk/)
 - [Kayako](https://www.kayako.com/)
-- [Sunglight](https://www.sunlight.is/)
+- [Sunlight](https://www.sunlight.is/)
 
 ---
 
