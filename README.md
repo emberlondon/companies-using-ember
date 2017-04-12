@@ -11,8 +11,8 @@ A list of companies using [Ember](https://emberjs.com/) in the UK! 🐹 🇬🇧
 - [Fitzdares](https://fitzdares.com/) | London
 - [Kayako](https://www.kayako.com/)
 - [Movidiam](https://www.movidiam.com/) | London
-- [Sunlight](https://www.sunlight.is/)
 - [Show My Homework](https://www.showmyhomework.co.uk/) | London
+- [Sunlight](https://www.sunlight.is/)
 - [Trouva](https://www.trouva.com/)
 - [Zapnito](https://zapnito.com)
 
