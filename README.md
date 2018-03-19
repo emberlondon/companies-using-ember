@@ -9,6 +9,7 @@ A list of companies using [Ember](https://emberjs.com/) in the UK! 🐹 🇬🇧
 - [Crowdstrike](http://www.crowdstrike.com/)
 - [Chattermill](https://chattermill.io) | London | Remote
 - [Fitzdares](https://fitzdares.com/) | London
+- [Intercom](https://intercom.com/) | London | Dublin
 - [Kayako](https://www.kayako.com/)
 - [Movidiam](https://www.movidiam.com/) | London
 - [Show My Homework](https://www.showmyhomework.co.uk/) | London
