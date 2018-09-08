@@ -10,6 +10,7 @@ A list of companies using [Ember](https://emberjs.com/) in the UK! 🐹 🇬🇧
 - [Chattermill](https://chattermill.io) | London | Remote
 - [Fitzdares](https://fitzdares.com/) | London
 - [Goji](https://goji.investments/) | London
+- [Localistico](http://localistico.com/) | London, Madrid, Remote
 - [IG](https://www.ig.com) | London | Krakow | Bangalore
 - [Intercom](https://intercom.com/) | London | Dublin
 - [Kayako](https://www.kayako.com/)
